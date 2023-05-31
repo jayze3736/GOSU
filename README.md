@@ -1,2 +1,2 @@
 # GOSU
-osu beatmap generator based GAN
+Gan OSU, model generates beatmap of osu
